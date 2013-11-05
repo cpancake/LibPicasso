@@ -2,6 +2,15 @@ LibPicasso
 ==========
 LibPicasso is a fully managed C# image loading library. Think DevIL, but for C#. Great for OpenTK projects.
 
+Current Formats
+---------------
+* PNM (PPM, PGM, PBM, both Binary and ASCII)
+* JPEG
+* PNG
+* TIFF
+* BMP
+* GIF
+
 Format Roadmap
 --------------
 * DirectDraw Surface (.dds)
