@@ -1,3 +1,6 @@
+WORK IN PROGRESS! DO NOT USE!
+=============================
+
 LibPicasso
 ==========
 LibPicasso is a fully managed C# image loading library. Think DevIL, but for C#. Great for OpenTK projects.
